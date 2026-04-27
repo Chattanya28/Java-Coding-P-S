@@ -9,6 +9,9 @@ public class EvenOdd {
         }
     }
 }
+
+//Or for reusable code try this
+
 // public static String checkEvenOdd(int num) {
 //    return (num & 1) == 0 ? "Even" : "Odd";
 //}
